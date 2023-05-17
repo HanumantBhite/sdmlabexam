@@ -1,0 +1,31 @@
+Buisness entities of employee recruitment system
+
+1. Employers: Employers who will put their requirements for required candidates
+ EmployerId, Organisation name, address, contact number, email id.
+
+2. Job Seekers: Job seekers will apply to various job available on portal
+ name, address, contact number, email id
+
+3. Job listing: Job listing will contain various jobs put by Employeers on profile
+ Job Id, EmployeerId, Application Id, 
+
+4. Applications: One Job seeker can put apply for multiple jobs on job listing
+Application Id, Jobseeker Id, Application date, Application status.
+
+5. Skills: Skills of job seekers, and skills required by employeers .
+SkillId, SkillName, SkillLevel
+
+6. Interview: Job seekers can give multiple interview for multiple jobs
+Interview Id, Job seekerId, Interview status, Interview time
+
+
+Buisness operations:
+1. Employeers will create their profile, log in, update their profile
+2. Employeers will put their requirements in the job listed by them
+3. Job seekers will see various jobs available on portal.
+4. Job seekers can create their profile, login, update their profile.
+5. Employeers will put various filters to see their required candidates profile
+6. Employeers can shortlist their candidates.
+7. Employeers will put various jobs on job listing.
+8. Employeers can make interview request to their shortlisted candidates.
+9. Job seekers can make application to multiple jobs.

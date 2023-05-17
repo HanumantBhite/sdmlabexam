@@ -1,0 +1,29 @@
+Employee Recruitment System:
+
+Purpose: Using this platform, Employers can see various candidate profiles, it will make there hiring procedure simpler. Job seekers can search for various jobs available on portal. Employers, Jobseekers, Job listings, Applications, Interviews, Skills.
+
+Functional Requirement: 
+1. Employers: 
+1.1 Employeers should be able to create their profile and fill up their requirements for their suitable candidates. 
+1.2 Employeers can put the skills they want in their prospective candidates.
+1.3 Employeers should be able to see various candidates profiles according to criteria put by them.
+1.4 Employeers should be able to put various filters to see candidates.
+1.5 Employeers should be able to see their hiring data in the forms of graphs
+1.6 They can see their previous records in the site.
+1.7 Employeers should get notifications regarding the job status they put on site.
+1.8 Employeers should be able to see multiple applications from candidates.
+1.9 Employeers can arrange interviews for the selected candidates.
+1.10 They should have proper conversation regarding interview process on platform.
+1.11 Employees can update their candidate requirements.
+
+
+2. Job seekers: 
+2.1 Job seekers can create their profiles on site. They can login with their credentials
+2.2 Job seekers can upload their resume on site.
+2.3. Job seekers should get notifications regarding their application status.
+2.4 Job seekers can be able to apply for multiple job listing.
+2.5 Job seekers can appear for multiple interviews.
+2.6 Job seekers post multiple applications for jobs on job listing.
+2.7 After selection of candidate by employeers, Job seekers should able to have conversation with employeers.
+2.8 They can put skills in their profile
+2.9 They can be able to update their profile.
